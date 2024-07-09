@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "llm-scraping-demo"
+version = "0.1.0"
+description = "Examples for Scrapfly Extraction API"
+authors = ["bernard <bernardas@scrapfly.io>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyter = "^1.0.0"
+httpx = "^0.27.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
