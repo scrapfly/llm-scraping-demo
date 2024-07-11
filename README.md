@@ -2,7 +2,7 @@
 
 Demo notebooks for LLM based web scraping with Scrapfly used in intro video:
 
-[![Watch the video](https://img.youtube.com/vi/Nd-g_-xXc9I/hqdefault.jpg)](https://www.youtube.com/watch?v=Nd-g_-xXc9I)
+[![Watch the video](https://img.youtube.com/vi/muo6I9XY8K4/hqdefault.jpg)](https://www.youtube.com/watch?v=muo6I9XY8K4)
 
 ## Setup
 
